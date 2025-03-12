@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-Anna is a multidisciplinary designer passionate about providing user-friendly products that solve complex problems. She specializes in UX design, prototyping, design thinking, and usability testing. She practices a user-centered and equity-focused design solution that emphasizes research and iteration. Her marketing analytics background helped her gain better data insights to make design decisions with creative problem-solving. 
+Anna specializes in crafting complex designs, prototyping, and usability testing. 
 
 
 <!--
