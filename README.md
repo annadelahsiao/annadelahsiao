@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-Anna specializes in crafting complex designs, prototyping, and usability testing. 
+Anna is a product designer who specializes in crafting complex designs, prototyping, and usability testing. 
 
 
 <!--
