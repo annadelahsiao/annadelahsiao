@@ -2,7 +2,7 @@
 
 Anna is a product designer who specializes in crafting complex designs, prototyping, and usability testing. <br>
 Do I code? Yes, not like a pro but can be a pro with Generative AI chatbots ;) <br>
-I am more proficient in HTML and CSS, a little bit in Java and javascript.
+I am more proficient in HTML and CSS, a little bit in Java and JavaScript.
 
 <!--
 **annadelahsiao/annadelahsiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
