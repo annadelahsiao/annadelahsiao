@@ -1,6 +1,6 @@
-### Hi there 👋 
+# Hi there, I'm Anna 👋 
 
-Anna is a product designer who specializes in crafting complex designs, prototyping, and usability testing. <br><br>
+💬 A product designer who specializes in crafting complex designs, prototyping, and usability testing. <br><br>
 ⚡ Do I code? Yes, not like a pro but can be a pro with Generative AI chatbots ;) <br>
 I am more proficient in HTML and CSS, a little bit in Java and JavaScript.
 <br><br><br>
