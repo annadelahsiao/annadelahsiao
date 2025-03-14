@@ -4,15 +4,17 @@ Anna is a product designer who specializes in crafting complex designs, prototyp
 ⚡ Do I code? Yes, not like a pro but can be a pro with Generative AI chatbots ;) <br>
 I am more proficient in HTML and CSS, a little bit in Java and JavaScript.
 <br><br><br>
-<span align="left">
-  <a href="https://www.linkedin.com/in/christinaliangg/" rel="nofollow">
-    <img
-      src="https://camo.githubusercontent.com/…"
-      style="border-radius:4px; max-width:100%;"
-      alt="LinkedIn"
-    />
-  </a>
-</span>
+<a href="https://www.linkedin.com/in/anndelahsiao"
+   style="display:inline-block;
+          background-color:#0077b5;
+          color:#ffffff;
+          padding:8px 16px;
+          text-decoration:none;
+          border-radius:4px;
+          font-weight:bold;">
+  LINKEDIN
+</a>
+
 
 
 
