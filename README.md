@@ -5,6 +5,7 @@ Anna is a product designer who specializes in crafting complex designs, prototyp
 I am more proficient in HTML and CSS, a little bit in Java and JavaScript.
 <br><br><br>
 [![LinkedIn: annadelahsiao](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/annadelahsiao/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://www.annahsiao.design/)
 
 
 
