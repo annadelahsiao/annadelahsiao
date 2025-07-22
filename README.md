@@ -1,7 +1,7 @@
 # Hi there, I'm Anna 👋 
 
 💬 A product designer who specializes in crafting complex designs, prototyping, and usability testing. <br><br>
-⚡ Do I code? Yes, not like a pro but can be a pro with Generative AI chatbots ;) <br>
+⚡ I do vibe coding<br>
 I am more proficient in HTML and CSS, a little bit in Java and JavaScript.
 <br><br><br>
 [![VISIT MY PORTFOLIO](https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-black?style=for-the-badge)](https://www.annahsiao.design/)
