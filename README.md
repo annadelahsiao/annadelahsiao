@@ -4,7 +4,6 @@
 ⚡ I do vibe coding<br>
 I am more proficient in HTML and CSS, a little bit in Java and JavaScript.
 <br><br><br>
-[![VISIT MY PORTFOLIO](https://www.annahsiao.design/)
 [![LinkedIn: annadelahsiao](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/annadelahsiao/)
 
 <!--
